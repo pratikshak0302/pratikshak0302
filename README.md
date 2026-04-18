@@ -4,8 +4,7 @@
 💻 Interested in Software Engineering, Security, and AI  
 
 ## Projects
-🔹The Wealth Gallery – AI museum with voice conversations with historical financial figures (HTML, JS, Gemini, ElevenLabs) 
-                       🏆 MLH Best Use of ElevenLabs – WeHack UTD 2026
+🔹The Wealth Gallery – AI museum with voice conversations with historical financial figures (HTML, JS, Gemini, ElevenLabs) (🏆 MLH Best Use of ElevenLabs – WeHack UTD 2026)
 🔹 FinCity – Gamified personal finance web app (React, MUI, APIs)  
 🔹 SynGenie – GenAI assistant built during hackathon  
 🔹 CyberShield Training Portal  – Security challenge environment  
