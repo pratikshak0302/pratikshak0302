@@ -1,18 +1,41 @@
 # Hi, I'm Pratiksha 👋
 
-🎓 MS Cybersecurity Student – University of Texas at Dallas  
-💻 Interested in Software Engineering, Security, and AI  
+Software Engineer with 2 years of professional experience, building AI-powered applications and scalable backend systems.
 
-## Projects
-🔹The Wealth Gallery – AI museum with voice conversations with historical financial figures (HTML, JS, Gemini, ElevenLabs) (🏆 MLH Best Use of ElevenLabs – WeHack UTD 2026)
-🔹 FinCity – Gamified personal finance web app (React, MUI, APIs)  
-🔹 SynGenie – GenAI assistant built during hackathon  
-🔹 CyberShield Training Portal  – Security challenge environment  
-🔹 Cybersecurity Lab – Malware analysis and security experiments  
+🏆 **MLH Best Use of ElevenLabs Award** – WeHack UTD 2026
 
-## Skills
-Java | Python | React | Cybersecurity | APIs | SQL
+## 🚀 Featured Projects
 
-## Links
-GitHub: https://github.com/pratikshak0302
-LinkedIn: https://www.linkedin.com/in/pratiksha-kinholkar
+### 🏛️ The Wealth Gallery
+
+An AI-powered interactive museum that enables conversations with historical financial figures using Google Gemini and ElevenLabs.
+
+### 🤖 SynGenie
+
+A schema-driven synthetic data generator for testing, analytics, and machine learning workflows.
+
+### 🛡️ CyberShield Training Portal
+
+A web-based Capture-The-Flag (CTF) platform with automated challenge validation, real-time scoring, and leaderboard management.
+
+### 💰 FinCity
+
+A gamified personal finance application designed to promote better budgeting and financial literacy.
+
+---
+
+## 💻 Tech Stack
+
+**Languages:** Python, Java, JavaScript, SQL
+
+**AI:** Large Language Models (LLMs), Google Gemini, Prompt Engineering
+
+**Backend:** REST APIs, Backend Development
+
+**Cloud & Tools:** AWS, Git
+
+---
+
+## 🌐 Connect
+
+* 💼 LinkedIn: https://www.linkedin.com/in/pratiksha-kinholkar
